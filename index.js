@@ -1,1 +1,1 @@
-var word
+var word = require("./word");
