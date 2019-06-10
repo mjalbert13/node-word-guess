@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mjalbert13/node-word-guess#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.3.1",
+    "jquery": "^3.4.1"
   }
 }

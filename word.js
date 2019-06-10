@@ -9,7 +9,7 @@ var Word = function(word){
             this.letter.push(" ");
         }
         else{
-            this.letter.push(new Letters(word.sharAt(i)));
+            this.letter.push(new Letters(word.charAt(i)));
         };
     };
 
