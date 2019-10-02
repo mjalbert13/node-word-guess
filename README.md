@@ -8,7 +8,7 @@ A command line node js word guess game that uses constructors
 ## Usage
 to run app locally
 ```bash
-node word-guess
+node word.js
 ```
 
 ##Technology used:
